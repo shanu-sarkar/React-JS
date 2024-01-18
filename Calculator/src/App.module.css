@@ -1,0 +1,14 @@
+.claculator {
+    border: 1px solid rgb(128, 118, 118);
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 15em;
+    margin-left: 40%;
+}
+
+.claculator:hover{
+    background-color: #0984e3
+}
+ 
+
+    

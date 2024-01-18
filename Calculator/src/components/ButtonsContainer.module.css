@@ -1,0 +1,18 @@
+.buttonsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button {
+    width: 55px;
+    /* height: 45px; */
+    height: 60px;
+    margin: 3px;
+    font-weight: 800;
+    font-size: x-large;
+    /* background-color: chocolate; */
+    background-color: #fd79a8;
+    margin-bottom: 10px;
+    border-radius: 30%;
+}
